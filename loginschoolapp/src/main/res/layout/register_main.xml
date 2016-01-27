@@ -158,7 +158,6 @@
                 fancy:fb_textColor="#FFFFFF"
                 fancy:fb_focusColor="#e8f1fa"
                 fancy:fb_text="Register"
-                fancy:fb_radius="30dp"
                 fancy:fb_defaultColor="#1976D2"
                 fancy:fb_fontIconSize="25dp"/>
 
